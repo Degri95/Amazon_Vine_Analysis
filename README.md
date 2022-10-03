@@ -16,17 +16,21 @@ After the filters were applied we had a total number of **14,537** votes.
 #### How many Vine reviews and non-Vine reviews were there?
 
 - Vine members made up .4% percent of the votes. (60)
+
 ![Vine Votes](/Resources/vine_yes_votes.PNG)
 
 - Non Vine members made up 99.6% of the votes. (14,447)
+
 ![Non Vine Votes](/Resources/vine_no_votes.PNG)
 
 #### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
 - Vine members had 34 out of 60 votes at 5 stars.
+
 ![Vine 5-stars](/Resources/vine_yes_5stars.PNG)
 
 - Non Vine members had 8,212 out of 14,447 votes at 5 stars.
+
 ![Non Vine 5-stars](/Resources/vine_no_5stars.PNG)
 
 #### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
