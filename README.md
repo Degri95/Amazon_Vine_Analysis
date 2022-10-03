@@ -11,6 +11,7 @@ In this project data was analyzed from the Amazon Vine program to see if there w
 The dataset was first filtered to get a more accurate analysis. Below are the following filters applied.
 - Total votes column is greater than or equal to 20.
 - Percent of Helpful Votes divided by Total votes is greater than or equal to 50%.
+
 After the filters were applied we had a total number of **14,537** votes.
 
 #### How many Vine reviews and non-Vine reviews were there?
