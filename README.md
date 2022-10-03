@@ -40,4 +40,5 @@ After the filters were applied we had a total number of **14,537** votes.
 - 56.72% of the non Vine members vontes were 5-stars.
 
 ## Summary
-
+Looking at the difference between the percentages of the 5-star ratings between the two groups, I would suggest there is not a positivity bias for the reviews in the Vine program. 
+There is only around a .05 difference between the Vine and non Vine members. The non Vine members actually had the marginally higher percentage of 5-star ratings. An additional analysis I would reccomend would be to see if there is a difference in the average votes between the two groups. There might not be a huge difference in 5-star reviews but there may be bias with other star reviews. This hypothesis could be rejected if the difference in means were small enough.
